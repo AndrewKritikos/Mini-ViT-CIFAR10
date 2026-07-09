@@ -1,0 +1,17 @@
+# Python cache files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+.env
+.venv
+env/
+venv/
+ENV/
+
+# VS Code directory
+.vscode/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
