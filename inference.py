@@ -37,4 +37,4 @@ def predict_my_image(image_path):
     plt.show()
 
 
-predict_my_image("test_images/sailboat(1).jpg")
+predict_my_image("test_images/ship(4).jpg")
